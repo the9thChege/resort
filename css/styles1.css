@@ -1,0 +1,84 @@
+body{
+  background-color: #000000;
+}
+
+h1{
+  background-color: #de7412;
+  font-family: "Monospace Corsiva", Georgia, serif;
+  color: #930d41;
+  text-align: center;
+}
+
+h2{
+  background-color: #de7412;
+  font-family: "Monospace Corsiva", Georgia, serif;
+  color: #930d41;
+  text-align: center;
+}
+
+img{
+  display: block;
+  margin: auto;
+  height: 60%;
+  width: 75%;
+}
+
+.pianoman{
+  text-align: left;
+  height: 45%;
+  width: 60%;
+}
+
+.manpiano{
+  display: inline-block;
+}
+
+.barsign{
+  text-align: center;
+}
+
+.bar-sign{
+  display: inline-block;
+}
+
+.billiards{
+  text-align: right;
+}
+
+.ball8{
+  display: inline-block;
+}
+
+h3{
+  background-color: #de7412;
+  font-family: "Monospace Corsiva", Georgia, serif;
+  color: #ffffff;
+  text-align: center;
+}
+
+h4{
+  background-color: #de7412;
+  font-family: "Monospace Corsiva", Georgia, serif;
+  color: #ffffff;
+  text-align: right;
+}
+
+.banner{
+  background-image: url(../img/bluewaves.jpg);
+  background-size: auto;
+  transition: all 1s ease-in-out;
+  max-height: 20%;
+  color: #e25d60;
+}
+
+.banner:hover{
+  background-image: url(../img/yellowwaves.jpg);
+  transition: all 1s ease-in-out;
+  max-height: 20%;
+  color: #e25d60;
+}
+
+p{
+  background-color: #00b992;
+  color: #c3226b;
+}
